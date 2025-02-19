@@ -2,8 +2,4 @@
 derivative
 *.asv
 /plugins/**
-!/plugins/clean_rawdata
-!/plugins/dipfit
-!/plugins/firfilt
-!/plugins/ICLabel
 .DS_Store
